@@ -1,4 +1,4 @@
 ### mq安装
 
-<img src="D:\note\mqinstall.png" alt="ma" zoom="200%" />
+<img src="./mqinstall.png" alt="ma" zoom="200%" />
 
